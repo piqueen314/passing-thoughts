@@ -32,7 +32,7 @@ export function App() {
   return (
     <div className="App">
       <header>
-        <h1>Passing Thoughts</h1>
+        <h1>What are you worried about?</h1>
       </header>
       <main>
         <AddThoughtForm addThought={addThought} />
